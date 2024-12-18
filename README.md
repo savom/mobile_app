@@ -1,2 +1,2 @@
 # mobile_app
-mobile_app
+종합설계에서 나온 ai모델을 토대로 알약을 확인하는 모바일 앱을 만듦
